@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CryptoSignalAI</string>
+    <string name="notification_channel_signals">Trade Signals</string>
+    <string name="notification_channel_signals_desc">High-confidence BUY/SELL alerts and trend reversals</string>
+</resources>

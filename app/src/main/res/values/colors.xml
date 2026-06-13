@@ -1,0 +1,10 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_dark">#FF0E1116</color>
+    <color name="surface_dark">#FF161B22</color>
+    <color name="accent">#FF3B82F6</color>
+    <color name="buy_green">#FF22C55E</color>
+    <color name="sell_red">#FFEF4444</color>
+    <color name="hold_amber">#FFF59E0B</color>
+</resources>

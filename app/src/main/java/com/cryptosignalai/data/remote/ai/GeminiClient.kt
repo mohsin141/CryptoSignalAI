@@ -70,6 +70,6 @@ class GeminiClient(private val apiKey: String) : AIProvider {
 
     companion object {
         private const val BASE = "https://generativelanguage.googleapis.com/v1beta/models"
-        private const val MODEL = "gemini-1.5-flash"
+        private const val MODEL = "gemini-2.5-flash"
     }
 }
